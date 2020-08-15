@@ -1,1 +1,0 @@
-echo "kotu sai keerthi"
