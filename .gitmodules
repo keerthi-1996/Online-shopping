@@ -4,3 +4,6 @@
 [submodule "rs-cart"]
 	path = rs-cart
 	url = https://DevOps-Batches@dev.azure.com/DevOps-Batches/DevOps49/_git/rs-cart
+[submodule "oldjenkins-backup"]
+	path = oldjenkins-backup
+	url = https://github.com/keerthi-1996/oldjenkins-backup
